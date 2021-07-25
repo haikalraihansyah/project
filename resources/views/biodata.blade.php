@@ -12,7 +12,7 @@
 
 	<p>Nama : {{ $nama }}</p>
 
-	<p>Mata Pelajaran</p>
+	<p>Mata </p>
 	<ul>
 
 		@foreach($matematika as $u)
